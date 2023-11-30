@@ -1,0 +1,6 @@
+@AlShifaEHR.Server_HostAddress = http://localhost:5188
+
+GET {{AlShifaEHR.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
